@@ -2,13 +2,12 @@
 
 🎓 Computer Science student with strong interest in **Machine Learning, Deep Learning, and Research-oriented projects**  
 🔬 Working on **medical image segmentation, ML systems, and applied AI**  
-⚙️ I enjoy building **end-to-end ML applications**, not just models
 
 ---
 
 ### 🚀 What I'm currently doing
 - 🧠 Building ML projects using **Python, scikit-learn, TensorFlow, FastAPI**
-- 🩺 Working on **medical image segmentation (UNet++)**
+- 🩺 Working on **medical image segmentation**
 - 📄 Exploring **research paper implementation & improvement**
 - 📚 Strengthening fundamentals in **Cryptography, Computer Networks, Algorithms**
 
@@ -20,27 +19,6 @@
 - **Backend:** FastAPI  
 - **Frontend:** Streamlit  
 - **Tools:** Git, GitHub, Linux, Kaggle  
-
----
-
-### 📌 Featured Projects
-🔹 **Railway Delay Risk Predictor**  
-End-to-end ML web app using Streamlit + FastAPI that predicts delay risk based on operational factors  
-➡️ Live Demo & Code: *(add repo link here)*
-
-🔹 **Medical Image Segmentation (UNet++)**  
-Deep learning model for segmentation of medical images with focus on accuracy and generalization  
-➡️ Code & Experiments: *(add repo link here)*
-
-*(More projects coming — focusing on quality over quantity)*
-
----
-
-### 🎯 Goals
-- 📈 Become strong in **Applied ML & AI Research**
-- 🧪 Publish / assist in **research papers**
-- 💼 Prepare for **internships & higher studies**
-- 🏗️ Build fewer projects, but **deep, complete, and meaningful**
 
 ---
 
