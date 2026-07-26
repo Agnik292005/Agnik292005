@@ -1,45 +1,76 @@
-## Hi there 👋 I'm Agnik Patra
+# Hi there 👋 I'm Agnik Patra
 
-🎓 Computer Science student with strong interest in **Machine Learning, Deep Learning, and Research-oriented projects**  
-🔬 Working on **medical image segmentation, ML systems, and applied AI**  
-
----
-
-### 🚀 What I'm currently doing
-- 🧠 Building ML projects using **Python, scikit-learn, TensorFlow, FastAPI**
-- 🩺 Working on **medical image segmentation**
-- 📄 Exploring **research paper implementation & improvement**
-- 📚 Strengthening fundamentals in **Cryptography, Computer Networks, Algorithms**
+🎓 B.Tech Computer Science (AI & ML) student at **VIT Vellore**  
+🔬 Interested in **Machine Learning, Computer Vision, Full-Stack Development, and AI Systems**  
+🚀 Passionate about building intelligent software backed by research and real-world engineering.
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C, Java  
-- **ML / DL:** TensorFlow, Keras, scikit-learn, OpenCV  
-- **Backend:** FastAPI  
-- **Frontend:** Streamlit  
-- **Tools:** Git, GitHub, Linux, Kaggle  
+## 🚀 About Me
+
+- 🔬 Summer Research Intern at **IIT Delhi**
+- 📊 Former Data Analytics Intern at **ITC Limited**
+- 📄 Co-author of a published research paper in medical image segmentation
+- 💡 Indian Patent holder in energy harvesting and intelligent sensing systems
+- 🌱 Preparing for software engineering interviews while building AI-powered applications
 
 ---
 
-### 📫 Connect with me
-- 💼 LinkedIn: https://www.linkedin.com/in/agnik-patra-3b197b28a/
-- 📧 Email: *agnik292005@gmail.com*
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,sql" />
+</p>
+
+### AI & Machine Learning
+
+- PyTorch
+- TensorFlow
+- MONAI
+- OpenCV
+- scikit-learn
+- NumPy
+- Pandas
+- nnU-Net
+- Auto3DSeg
+- CLIP
+- RAG Pipelines
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,docker" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,postman" />
+</p>
+
+- ChromaDB
+- pgvector
+- Google Cloud Run
+- Vercel
 
 ---
 
+## 📈 GitHub Stats
 
-<!--
-**Agnik292005/Agnik292005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Agnik292005&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnik292005&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/agnik-patra/
+- 📧 agnik292005@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
