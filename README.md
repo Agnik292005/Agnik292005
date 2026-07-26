@@ -54,5 +54,5 @@ My pinned repositories showcase my recent work in AI, machine learning, and full
 
 ## Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/agnik-patra/
+- **LinkedIn:** [https://www.linkedin.com/in/agnik-patra/](https://www.linkedin.com/in/agnik-patra-3b197b28a/)
 - **Email:** agnik292005@gmail.com
